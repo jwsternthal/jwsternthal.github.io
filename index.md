@@ -59,7 +59,7 @@ I have many professional skills within my interest in the information technology
 
 **Youngstown State University, Youngstown, OH. August 2015 to Present.**
 
-Information Technology Major / Telecommunicatons Minor.
+Bachelors' in Science - Applied Science in Information Technology with Networking; Telcommunications Minor.
 
 **Sharon High School, Sharon, PA. August 2011 to June 2015.**
 
