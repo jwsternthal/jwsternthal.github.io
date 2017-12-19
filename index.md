@@ -17,7 +17,8 @@ Welcome to the website of **Jonathan W. Sternthal**
 # Previous Employment
 
 **Long John Silvers, Hermitage, PA. June 2016 to Present.**
-Customer Service Specialist / Preparation Specalist . 
+Customer Service Specialist / Preparation Specalist.
+Working at Long John Silvers has given me the opportunity to familiarize myself with the working environment. 
 
 # Skills
 
@@ -59,4 +60,4 @@ General Courses.
 
 **Mercer County Career Center, Mercer, PA. August 2013 to May 2015.**
 Computer and Office Technology.
-
+At the Mercer County Career Center, I studied the Computer and Office Technology course. In this course, I gained the skills necessary to be a successful administrative assistant.
