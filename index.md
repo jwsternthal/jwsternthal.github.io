@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## Jonathan W. Sternthal
 
-You can use the [editor on GitHub](https://github.com/jwsternthal/jwsternthal.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the website of [Jonathan W. Sternthal]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Email
+[jonathan@sternthal.me](mailto:jonathan@sternthal.me)
+### Twitter
+[@jwsternthal](https://twitter.com/jwsternthal)
 
-### Markdown
+#Previous Employment
+Long John Silvers, Hermitage, PA. June 2016 to Present.
+Customer Service Specialist / Preparation Specalist . 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#Skills
+I have many professional skills within my interest in the information technology field, including:
 
-```markdown
-Syntax highlighted code block
+##Software/Hardware
+-Operating System installation and configuration
+   -Microsoft Windows
+   -Mac OS X (now macOS)
+   -Various Distributions of GNU/Linux including
+      -Fedora
+      -Ubuntu
+      -Debian
+-Adobe Creative Cloud
+  -Photoshop
+  -Illustrator
+-Computer Repair and Upgrades
+ -Virus Removal
+ -Data Recovery
+ -Hardware Installation
+-Custom PC building
 
-# Header 1
-## Header 2
-### Header 3
+##Programming Languages
+-Python
+-HTML5/CSS3
 
-- Bulleted
-- List
+#Education
+**Youngstown State University, Youngstown, OH. August 2015 to Present.**
+Information Technology Major / Telecommunicatons Minor.
 
-1. Numbered
-2. List
+**Sharon High School, Sharon, PA. August 2011 to June 2015.**
+General Courses.
 
-**Bold** and _Italic_ and `Code` text
+**Mercer County Career Center, Mercer, PA. August 2013 to May 2015.**
+Computer and Office Technology.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jwsternthal/jwsternthal.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
