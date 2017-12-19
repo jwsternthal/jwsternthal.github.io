@@ -3,18 +3,24 @@
 Welcome to the website of [Jonathan W. Sternthal]
 
 ### Email
+
 [jonathan@sternthal.me](mailto:jonathan@sternthal.me)
+
 ### Twitter
+
 [@jwsternthal](https://twitter.com/jwsternthal)
 
 #Previous Employment
-Long John Silvers, Hermitage, PA. June 2016 to Present.
+
+**Long John Silvers, Hermitage, PA. June 2016 to Present.**
 Customer Service Specialist / Preparation Specalist . 
 
 #Skills
+
 I have many professional skills within my interest in the information technology field, including:
 
 ##Software/Hardware
+
 -Operating System installation and configuration
    -Microsoft Windows
    -Mac OS X (now macOS)
@@ -32,10 +38,12 @@ I have many professional skills within my interest in the information technology
 -Custom PC building
 
 ##Programming Languages
+
 -Python
 -HTML5/CSS3
 
 #Education
+
 **Youngstown State University, Youngstown, OH. August 2015 to Present.**
 Information Technology Major / Telecommunicatons Minor.
 
