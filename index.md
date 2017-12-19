@@ -2,6 +2,10 @@
 
 Welcome to the website of **Jonathan W. Sternthal**
 
+### Blog
+
+[blog.sternthal.me](http://blog.sternthal.me)
+
 ### Email
 
 [jonathan@sternthal.me](mailto:jonathan@sternthal.me)
