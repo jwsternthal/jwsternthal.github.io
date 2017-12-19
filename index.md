@@ -1,6 +1,6 @@
-## Jonathan W. Sternthal
+# Jonathan W. Sternthal
 
-Welcome to the website of [Jonathan W. Sternthal]
+Welcome to the website of **Jonathan W. Sternthal**
 
 ### Email
 
@@ -10,39 +10,42 @@ Welcome to the website of [Jonathan W. Sternthal]
 
 [@jwsternthal](https://twitter.com/jwsternthal)
 
-#Previous Employment
+# Previous Employment
 
 **Long John Silvers, Hermitage, PA. June 2016 to Present.**
 Customer Service Specialist / Preparation Specalist . 
 
-#Skills
+# Skills
 
 I have many professional skills within my interest in the information technology field, including:
 
-##Software/Hardware
+## Software/Hardware
 
--Operating System installation and configuration
-   -Microsoft Windows
-   -Mac OS X (now macOS)
-   -Various Distributions of GNU/Linux including
-      -Fedora
-      -Ubuntu
-      -Debian
--Adobe Creative Cloud
-  -Photoshop
-  -Illustrator
--Computer Repair and Upgrades
- -Virus Removal
- -Data Recovery
- -Hardware Installation
--Custom PC building
+- Operating System installation and configuration
+   - Microsoft Windows
+   - Mac OS X (now macOS)
+   - Various Distributions of GNU/Linux including
+      - Fedora
+      - Ubuntu
+      - Debian
+- Adobe Creative Cloud
 
-##Programming Languages
+  - Photoshop
+  - Illustrator
+  
+- Computer Repair and Upgrades
 
--Python
--HTML5/CSS3
+ - Virus Removal
+ - Data Recovery
+ - Hardware Installation
+ - Custom PC building
 
-#Education
+## Programming Languages
+
+- Python
+- HTML5/CSS3
+
+# Education
 
 **Youngstown State University, Youngstown, OH. August 2015 to Present.**
 Information Technology Major / Telecommunicatons Minor.
