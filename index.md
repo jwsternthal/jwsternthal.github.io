@@ -2,6 +2,11 @@
 
 Welcome to the website of **Jonathan W. Sternthal**
 
+## Personal Info
+
+- I live in Hermitage, Pennsylvania, United States
+- I have held an interest in technology since my early childhood.
+
 ### Blog
 
 [blog.sternthal.me](http://blog.sternthal.me)
@@ -59,11 +64,13 @@ I have many professional skills within my interest in the information technology
 
 **Youngstown State University, Youngstown, OH. August 2015 to Present.**
 
-Bachelors' in Science - Applied Science in Information Technology with Networking; Telcommunications Minor.
+Bachelors in Science - Applied Science in Information Technology with Networking; Telcommunications Minor.
+
+At Youngstown State University, I am presently working toward getting my degree so I can have a career in the information technology field - which aligns with my interest.
 
 **Sharon High School, Sharon, PA. August 2011 to June 2015.**
 
-General Courses.
+At Sharon High School, I studied the general courses required by the Pennsylvania Department of Education.
 
 **Mercer County Career Center, Mercer, PA. August 2013 to May 2015.**
 
