@@ -1,11 +1,6 @@
 # Jonathan W. Sternthal
 
-Welcome to the website of **Jonathan W. Sternthal**
-
-## Personal Info
-
-- I live in Hermitage, Pennsylvania, United States
-- I have held an interest in technology since my early childhood.
+Welcome to the website of **Jonathan W. Sternthal**. I live in Hermitage, PA, United States, and I'm an amateur radio operator, operating under call sign ***KC3KOS***
 
 ### Blog
 
@@ -25,12 +20,14 @@ Welcome to the website of **Jonathan W. Sternthal**
 
 # Previous Employment
 
-**Long John Silvers, Hermitage, PA. June 2016 to Present.**
+**Long John Silvers, Hermitage, PA. June 2016 to July 2017; November 2017 to Present**
 Customer Service Specialist / Preparation Specalist.
 
 Working at Long John Silvers has given me the opportunity to familiarize myself with the working environment. 
 
 # Skills
+
+
 
 I have many professional skills within my interest in the information technology field, including:
 
