@@ -25,6 +25,11 @@ Customer Service Specialist / Preparation Specalist.
 
 Working at Long John Silvers has given me the opportunity to familiarize myself with the working environment. 
 
+**Jonathan's PC Services; Early 2009 to Present**
+Jonathan.
+
+Throughout middle school, high school and college, I've done some computer repair for friends and family for extra spending money.
+
 # Skills
 
 
