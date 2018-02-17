@@ -1,6 +1,6 @@
 # Jonathan W. Sternthal
 
-Welcome to the website of **Jonathan W. Sternthal**. I live in Hermitage, PA, United States, and I'm an amateur radio operator, operating under call sign ***KC3KOS***
+Welcome to the website of **Jonathan W. Sternthal**. I live in Hermitage, PA, United States, and I'm an amateur radio operator, operating under call sign ***N8JWS***
 
 ### Blog
 
@@ -28,9 +28,7 @@ Working at Long John Silvers has given me the opportunity to familiarize myself 
 **Jonathan's PC Repair; June 2009 to Present**
 Myself.
 
-Through my middle and high school years, I've done some computer repair for close friends and family and have gotten paid for doing so.
-
-# Skills
+Since my middle school years, I have done some PC repair for friends and family for pay.
 
 
 
