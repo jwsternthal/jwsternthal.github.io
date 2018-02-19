@@ -77,3 +77,15 @@ At Sharon High School, I studied the general courses required by the Pennsylvani
 Computer and Office Technology.
 
 At the Mercer County Career Center, I studied the Computer and Office Technology course. In this course, I gained the skills necessary to be a successful administrative assistant.
+
+#Clubs and Organizations
+
+**Youngstown Penguin Hackers, Fall 2015 to Present**
+
+I am part of the Youngstown Penguin Hackers. I am an event organizer for the Penguin Hackers, and I help organize the carpools that we host for the events that we attend.
+
+I was a founding member for the Penguin Hackers, and I was the co-treasurer for the Fall 2015 and Spring 2016 semesters. 
+
+**Youngstown State University Amateur Radio Club, Fall 2017 to Present**
+
+I am part of the the Youngstown State University Amateur Radio Club. I just became an amateur radio operator, so I haven't done much yet with the club, however I was part of the AARL school club round up for the Spring semester of 2018, and made contact with stations in North and South Carolinas. 
