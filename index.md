@@ -78,7 +78,7 @@ Computer and Office Technology.
 
 At the Mercer County Career Center, I studied the Computer and Office Technology course. In this course, I gained the skills necessary to be a successful administrative assistant.
 
-#Clubs and Organizations
+# Clubs and Organizations
 
 **Youngstown Penguin Hackers, Fall 2015 to Present**
 
