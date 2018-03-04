@@ -88,4 +88,4 @@ I was a founding member for the Penguin Hackers, and I was the co-treasurer for 
 
 **Youngstown State University Amateur Radio Club, Fall 2017 to Present**
 
-I am part of the the Youngstown State University Amateur Radio Club. I just became an amateur radio operator, so I haven't done much yet with the club, however I was part of the AARL school club round up for the Spring semester of 2018, and made contact with stations in North and South Carolinas. 
+I am part of the the Youngstown State University Amateur Radio Club. I just became an amateur radio operator, so I haven't done much yet with the club, however I was part of the ARRL school club round up for the Spring semester of 2018, and made contact with stations in North and South Carolinas. 
