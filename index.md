@@ -20,7 +20,7 @@ Welcome to the website of **Jonathan W. Sternthal**. I live in Hermitage, PA, Un
 
 # Previous Employment
 
-***GetGo, Hermitage, PA. May 2018 to Present***
+**GetGo, Hermitage, PA. May 2018 to Present**
 Team Member
 
 Working at GetGo has given me more variables for a working environment. Tasks include working with customers, food safety, and ensuring there is stock for a retail environment.
