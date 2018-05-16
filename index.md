@@ -20,10 +20,15 @@ Welcome to the website of **Jonathan W. Sternthal**. I live in Hermitage, PA, Un
 
 # Previous Employment
 
-**Long John Silvers, Hermitage, PA. June 2016 to July 2017; November 2017 to Present**
+***GetGo, Hermitage, PA. May 2018 to Present***
+Team Member
+
+Working at GetGo has given me more variables for a working environment. Tasks include working with customers, food safety, and ensuring there is stock for a retail environment.
+
+**Long John Silvers, Hermitage, PA. June 2016 to July 2017; November 2017 to May 2018**
 Customer Service Specialist / Preparation Specalist.
 
-Working at Long John Silvers has given me the opportunity to familiarize myself with the working environment. 
+Working at Long John Silvers has given me the opportunity to familiarize myself with the working environment. Tasks included taking care of customers, ensuring food safety and dish washing
 
 **Jonathan's PC Repair; June 2009 to Present**
 Myself.
