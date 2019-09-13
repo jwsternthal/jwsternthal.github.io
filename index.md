@@ -1,6 +1,6 @@
 # Jonathan W. Sternthal
 
-Welcome to the website of **Jonathan W. Sternthal**. I live in Hermitage, PA, United States, and I'm an amateur radio operator, operating under call sign ***N8JWS***
+Welcome to the website of **Jonathan W. Sternthal**. I live in Hermitage, PA, United States, and I'm an amateur radio operator, operating under call sign ***K3GND***
 
 ### Blog
 
@@ -64,18 +64,15 @@ I have many professional skills within my interest in the information technology
 
 - Python
 - HTML5/CSS3
+- C++
 
 # Education
 
 **Youngstown State University, Youngstown, OH. August 2015 to Present.**
 
-Bachelors in Science - Applied Science in Information Technology with Networking; Telcommunications Minor.
+Associate of Applied Science in Information Technology
 
 At Youngstown State University, I am presently working toward getting my degree so I can have a career in the information technology field - which aligns with my interest.
-
-**Sharon High School, Sharon, PA. August 2011 to June 2015.**
-
-At Sharon High School, I studied the general courses required by the Pennsylvania Department of Education.
 
 **Mercer County Career Center, Mercer, PA. August 2013 to May 2015.**
 
@@ -93,4 +90,4 @@ I was a founding member for the Penguin Hackers, and I was the co-treasurer for 
 
 **Youngstown State University Amateur Radio Club, Fall 2017 to Present**
 
-I am part of the the Youngstown State University Amateur Radio Club. I just became an amateur radio operator, so I haven't done much yet with the club, however I was part of the ARRL school club round up for the Spring semester of 2018, and made contact with stations in North and South Carolinas. 
+I am part of the the Youngstown State University Amateur Radio Club. I was part of the ARRL school club round up for the Spring semester of 2018, and made contact with stations in North and South Carolinas. 
